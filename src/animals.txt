@@ -1,0 +1,10 @@
+cachorro
+gato
+elefante
+leao
+tigre
+girafa
+macaco
+cavalo
+ovelha
+pato
